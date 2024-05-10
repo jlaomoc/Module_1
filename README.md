@@ -1,6 +1,6 @@
 # Module 1 Challenge
 
-![alt=""](Screen-Shot-2024-05-09-at-9.47.06-PM.png)
+![alt=""](Model_1/Screen-Shot-2024-05-09-at-9.47.06-PM.png)
 
 # Chime! 
 ### Reimagining What Banking Is 
