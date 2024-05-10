@@ -1,8 +1,9 @@
 # Module 1 Challenge
 
-![alt=""](Screen Shot 2024-05-09 at 9.47.06 PM.png)
+![alt=""](Screen-Shot-2024-05-09-at-9.47.06-PM.png)
 
-# Chime! Reimagining what banking is 
+# Chime! 
+### Reimagining What Banking Is 
 
 # Overview and Origin
 Financial technology company "that partners with national banks to help provide access to easy-to-use financial products for consumers" 
