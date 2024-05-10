@@ -1,6 +1,6 @@
-# Module_1
+# Module 1 Challenge
 
-# Title: Chime! Reimagining what banking is 
+# Chime! Reimagining what banking is 
 
 # Overview and Origin
 Financial technology company "that partners with national banks to help provide access to easy-to-use financial products for consumers" 
