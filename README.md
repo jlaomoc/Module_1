@@ -1,5 +1,7 @@
 # Module 1 Challenge
 
+![alt=""](Images/19-4-challenge-image.png)
+
 # Chime! Reimagining what banking is 
 
 # Overview and Origin
